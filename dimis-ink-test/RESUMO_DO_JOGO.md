@@ -36,9 +36,9 @@ Jogo 2D de plataforma com puzzles, focado no lado artístico e na teoria das cor
 | [`video/`](video/) | [Vídeo do jogo](video/Dimis_Ink_Test_Reels_v2.mp4). |
 
 ## Como jogar
-1. Baixe o `Dimi's Ink Test.exe` (link na pasta [`executavel/`](executavel/), que leva à Release do GitHub).
-2. Dê dois cliques para abrir. O jogo abre em tela cheia.
-3. Use `Esc` para pausar.
+1. Baixe o `Dimi.s.Ink.Test.exe` (link na pasta [`executavel/`](executavel/), que leva à Release do GitHub).
+2. Dê dois cliques para abrir. O jogo abre em tela cheia. Use `Esc` para pausar.
+3. **Se aparecer a tela azul "O Windows protegeu o computador":** clique em **Mais informações** e depois em **Executar assim mesmo**. Isso é normal, pois o jogo não tem assinatura digital paga. Mais detalhes em [`executavel/`](executavel/).
 
 ## Pesquisa de opinião
 Jogou? Conta pra gente o que achou:
