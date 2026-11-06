@@ -8,9 +8,11 @@ Jogo educativo de plataforma com puzzles que viaja por três épocas: Era Mesozo
 |---|---|
 | **Gênero** | Plataforma 2D com puzzles |
 | **Engine** | Unity |
+| **Faixa etária dos playtests** | 8 a 12 anos |
+| **Habilidades BNCC** | EF06HI01 e EF06HI07 |
 
 ## Equipe
-<!-- TODO: preencher nomes dos integrantes -->
+Paulo Vitor Hobold, Milena Kost Vier e João Fabijak
 
 ## Controles
 | Ação | Tecla |
@@ -32,7 +34,7 @@ Se aparecer a tela azul **"O Windows protegeu o computador"** (SmartScreen), é 
 | Pasta | O que tem |
 |---|---|
 | [`executavel/`](executavel/) | O jogo pronto para rodar, compactado em `.zip`. |
-| `documentacao/` | _Ainda não enviada._ |
+| [`documentacao/`](documentacao/) | Manual do jogo: [PDF](documentacao/Viagem_pelas_Eras_Manual_GDD.pdf) ou [Word](documentacao/Viagem_pelas_Eras_Manual_GDD.docx). |
 | `video/` | [Vídeo do jogo](video/Viagem-Pelas-Eras-video.mp4). |
 
 ## Pesquisa de opinião
