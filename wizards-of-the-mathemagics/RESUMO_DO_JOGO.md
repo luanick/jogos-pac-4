@@ -8,7 +8,7 @@ O mago Pitágoras precisa recuperar a fórmula mágica perdida da Torre de Herá
 |---|---|
 | **Gênero** | Exploração com desafios de matemática |
 | **Plataforma** | Navegador (HTML/JavaScript) |
-| **Disciplina** | Projeto de Aprendizagem III (PAC3), professor Moisés de Souza |
+| **Disciplina** | Jogo desenvolvido no PAC 4. O GDD foi elaborado antes, no PAC3 (Projeto de Aprendizagem III, professor Moisés de Souza). |
 | **Público** | 12 a 18 anos (do 7º ano do Ensino Fundamental ao 3º ano do Ensino Médio) |
 | **Habilidade BNCC** | EF06MA03: cálculos mentais ou escritos com números racionais, incluindo frações |
 
