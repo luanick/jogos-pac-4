@@ -8,6 +8,7 @@ Jogo de combate por cartas: um guerreiro enfrenta inimigos (como um esqueleto) u
 |---|---|
 | **Gênero** | Combate por cartas |
 | **Engine** | Godot |
+| **Versão** | Alpha v1.0 |
 
 ## Equipe
 <!-- TODO: preencher nomes dos integrantes -->
@@ -27,7 +28,7 @@ Se aparecer a tela azul **"O Windows protegeu o computador"** (SmartScreen), é 
 |---|---|
 | [`executavel/`](executavel/) | O jogo pronto para rodar, compactado em `.zip`. |
 | `documentacao/` | _Ainda não enviada._ |
-| `video/` | _Ainda não enviado._ |
+| [`video/`](video/) | [Vídeo do jogo](video/Profundo-Abismo-de-Calculo-video.mp4). |
 
 ## Pesquisa de opinião
 Jogou? Conta pra gente o que achou:
