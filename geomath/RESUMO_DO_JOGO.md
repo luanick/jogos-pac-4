@@ -1,12 +1,15 @@
 # GeoMath
 
 ## O que é
-Jogo 2D de plataforma em pixel art em que o jogador controla um detetive. Pelo que dá para ver no build, há fases em campo aberto e caverna, um templo com pisos especiais e uma batalha contra um dragão.
+Jogo de aventura em pixel art em que o jogador, um guerreiro, atravessa quatro fases resolvendo desafios matemáticos: restaura o piso de um templo calculando a área de retângulos, conserta uma ponte aplicando o teorema de Pitágoras e derrota um dragão com contas de soma, subtração, multiplicação e divisão.
 
 ## Ficha do jogo
 | | |
 |---|---|
-| **Gênero** | Plataforma 2D |
+| **Gênero** | Aventura 2D em pixel art |
+| **Matemática** | Soma, subtração, multiplicação e divisão, teorema de Pitágoras e área do retângulo |
+| **Habilidade BNCC** | EF09MA14: resolver e elaborar problemas de aplicação do teorema de Pitágoras |
+| **Lúdico** | Músicas, efeitos sonoros, batalha contra um dragão e sistema de 3 vidas. As recompensas aparecem na própria história: o piso se materializa, a ponte se conserta e o dragão é derrotado. |
 | **Engine** | Godot |
 
 ## Equipe
@@ -26,8 +29,8 @@ Se aparecer a tela azul **"O Windows protegeu o computador"** (SmartScreen), é 
 | Pasta | O que tem |
 |---|---|
 | [`executavel/`](executavel/) | O jogo pronto para rodar, compactado em `.zip`. |
-| `documentacao/` | _Ainda não enviada._ |
-| `video/` | _Ainda não enviado._ |
+| [`documentacao/`](documentacao/) | [GDD do GeoMath (PDF)](documentacao/GDD_GeoMath.pdf). |
+| [`video/`](video/) | [Vídeo do jogo](video/GeoMath-video.mp4). |
 
 ## Pesquisa de opinião
 Jogou? Conta pra gente o que achou:
