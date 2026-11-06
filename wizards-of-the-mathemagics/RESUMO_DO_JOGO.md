@@ -8,9 +8,13 @@ O mago Pitágoras precisa recuperar a fórmula mágica perdida da Torre de Herá
 |---|---|
 | **Gênero** | Exploração com desafios de matemática |
 | **Plataforma** | Navegador (HTML/JavaScript) |
+| **Disciplina** | Projeto de Aprendizagem III (PAC3), professor Moisés de Souza |
+| **Público** | 12 a 18 anos (do 7º ano do Ensino Fundamental ao 3º ano do Ensino Médio) |
+| **Habilidade BNCC** | EF06MA03: cálculos mentais ou escritos com números racionais, incluindo frações |
 
 ## Equipe
-Rian Deyvid e Eric Cristhian
+- **Autores do GDD:** Hugo May Neto, Rian Deyvid Lopes Bulhões e Johann Mignoni
+- **Desenvolvedores do jogo:** Rian Deyvid e Eric Cristhian
 
 ## Controles
 | Ação | Tecla |
@@ -26,8 +30,8 @@ Rian Deyvid e Eric Cristhian
 | Pasta | O que tem |
 |---|---|
 | [`executavel/`](executavel/) | O jogo pronto para rodar, compactado em `.zip`. |
-| `documentacao/` | _Ainda não enviada._ |
-| `video/` | _Ainda não enviado._ |
+| [`documentacao/`](documentacao/) | [GDD Final (PDF)](documentacao/GDD_Final_Mathemagics.pdf). |
+| [`video/`](video/) | [Vídeo do jogo](video/Wizards-of-the-Mathemagics-video.mp4). |
 
 ## Pesquisa de opinião
 Jogou? Conta pra gente o que achou:
