@@ -10,7 +10,7 @@ Jogo narrativo 2D no Colégio Nova Aurora. Lucas, aluno do terceiro ano, convive
 | **Plataforma** | Navegador (HTML) |
 
 ## Equipe
-<!-- TODO: preencher nomes dos integrantes -->
+Jhonata, Murilo e Gabriel Wagner Zimmermann
 
 ## Controles
 | Ação | Tecla |
