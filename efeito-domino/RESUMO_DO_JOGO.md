@@ -32,7 +32,7 @@ Jhonata, Murilo e Gabriel Wagner Zimmermann
 |---|---|
 | [`executavel/`](executavel/) | O jogo pronto para rodar, compactado em `.zip`. |
 | `documentacao/` | [LEIA-ME completo](documentacao/LEIA-ME.md), [Mini-games](documentacao/MINI-GAMES.md) e imagens de referência (mapa, personagens, telas). |
-| `video/` | _Ainda não enviado._ |
+| `video/` | Vídeo do jogo (gameplay narrado, ~11 min): `Efeito-Domino-video.mp4` |
 
 ## Pesquisa de opinião
 Jogou? Conta pra gente o que achou:
