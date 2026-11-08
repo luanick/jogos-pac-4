@@ -15,9 +15,6 @@ Jogo de aventura em pixel art em que o jogador, um guerreiro, atravessa quatro f
 ## Equipe
 Carolina Scheibel, Júlia Melissa, Pedro Henrique e Thiago Luciano
 
-## Controles
-<!-- TODO: controles a confirmar com a equipe -->
-
 ## Como jogar
 1. Baixe o [`GeoMath.zip`](executavel/GeoMath.zip) (na página do arquivo, clique em **Download raw** ou no ícone de download).
 2. Extraia o zip e abra `Detetive.exe`. O arquivo `Detetive.pck` precisa ficar na mesma pasta.
