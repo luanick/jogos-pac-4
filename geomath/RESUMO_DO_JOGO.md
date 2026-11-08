@@ -13,7 +13,7 @@ Jogo de aventura em pixel art em que o jogador, um guerreiro, atravessa quatro f
 | **Engine** | Godot |
 
 ## Equipe
-<!-- TODO: preencher nomes dos integrantes -->
+Carolina Scheibel, Júlia Melissa, Pedro Henrique e Thiago Luciano
 
 ## Controles
 <!-- TODO: controles a confirmar com a equipe -->
