@@ -43,4 +43,4 @@ Jogo 2D de plataforma com puzzles, focado no lado artístico e na teoria das cor
 ## Pesquisa de opinião
 Jogou? Conta pra gente o que achou:
 
-👉 **[Responder a pesquisa](https://forms.gle/b5CWC3qV9jwG756p7)**
+👉 **[Responder a pesquisa](https://forms.gle/xi1s1DZHfbsgFMeAA)**

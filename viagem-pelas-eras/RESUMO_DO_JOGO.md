@@ -40,4 +40,4 @@ Se aparecer a tela azul **"O Windows protegeu o computador"** (SmartScreen), é 
 ## Pesquisa de opinião
 Jogou? Conta pra gente o que achou:
 
-👉 **[Responder a pesquisa](LINK_DA_PESQUISA_AQUI)** <!-- TODO: trocar pelo link fornecido pelo professor -->
+👉 **[Responder a pesquisa](https://forms.gle/k8rFzPkonYzQoZso9)**
