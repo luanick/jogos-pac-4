@@ -16,7 +16,7 @@ Jogo 2D de plataforma com puzzles, focado no lado artístico e na teoria das cor
 | **Conteúdo de Arte** | Cores primárias e secundárias (modelo subtrativo RYB) |
 
 ## Equipe
-<!-- TODO: preencher nomes dos integrantes -->
+Luan Nick, Vinícius Gilgen e Nicolas Nass
 
 ## Controles
 | Ação | Teclado e mouse | Xbox | PlayStation |
