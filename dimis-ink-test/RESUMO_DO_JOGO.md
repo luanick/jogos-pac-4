@@ -28,17 +28,19 @@ Luan Nick, Vinícius Gilgen e Nicolas Nass
 | Interagir | F | Y | Triângulo |
 | Pausar | Esc | Menu | Options |
 
+## Como jogar
+1. Baixe o `Dimi.s.Ink.Test.exe` na [Release do jogo](https://github.com/luanick/jogos-pac-4/releases/tag/dimis-ink-test-v1.0), na seção **Assets**. O arquivo é grande (cerca de 220 MB) e por isso fica na Release, e não dentro da pasta.
+2. Dê dois cliques no `.exe` para abrir. O jogo abre em tela cheia. Use `Esc` para pausar.
+
+## ⚠️ O Windows pode bloquear o jogo
+Se aparecer a tela azul **"O Windows protegeu o computador"** (SmartScreen), é normal: o jogo é um projeto de estudantes e não tem assinatura digital paga. Clique em **Mais informações** e depois em **Executar assim mesmo**.
+
 ## Conteúdo desta pasta
 | Pasta | O que tem |
 |---|---|
-| [`executavel/`](executavel/) | O jogo pronto para rodar (`.exe`). Não contém código-fonte. |
+| [`executavel/`](executavel/) | Link para o jogo pronto para rodar (`.exe`, na Release). Não contém código-fonte. |
 | [`documentacao/`](documentacao/) | [GDD v2.0 (PDF)](documentacao/GDD_Dimis_Ink_Test_v2.pdf), o Game Design Document do jogo. |
 | [`video/`](video/) | [Vídeo do jogo](video/Dimis_Ink_Test_Reels_v2.mp4). |
-
-## Como jogar
-1. Baixe o `Dimi.s.Ink.Test.exe` (link na pasta [`executavel/`](executavel/), que leva à Release do GitHub).
-2. Dê dois cliques para abrir. O jogo abre em tela cheia. Use `Esc` para pausar.
-3. **Se aparecer a tela azul "O Windows protegeu o computador":** clique em **Mais informações** e depois em **Executar assim mesmo**. Isso é normal, pois o jogo não tem assinatura digital paga. Mais detalhes em [`executavel/`](executavel/).
 
 ## Pesquisa de opinião
 Jogou? Conta pra gente o que achou:
