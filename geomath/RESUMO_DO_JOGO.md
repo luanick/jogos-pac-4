@@ -33,3 +33,8 @@ Se aparecer a tela azul **"O Windows protegeu o computador"** (SmartScreen), é 
 Jogou? Conta pra gente o que achou:
 
 👉 **[Responder a pesquisa](https://docs.google.com/forms/d/e/1FAIpQLSd1BlpE039lqVRmtw4YAjGaygnMUMZvQxB8jK61-6gxf9JXcw/viewform?usp=header)**
+
+## Dúvidas
+O jogo não abriu ou ficou com alguma dúvida? Escreva na aba de discussões:
+
+👉 **[Tirar uma dúvida](https://github.com/luanick/jogos-pac-4/discussions)**

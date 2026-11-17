@@ -38,3 +38,8 @@ Jhonata, Murilo e Gabriel Wagner Zimmermann
 Jogou? Conta pra gente o que achou:
 
 👉 **[Responder a pesquisa](https://forms.gle/ur2NGSNU6oT3YZSg8)**
+
+## Dúvidas
+O jogo não abriu ou ficou com alguma dúvida? Escreva na aba de discussões:
+
+👉 **[Tirar uma dúvida](https://github.com/luanick/jogos-pac-4/discussions)**

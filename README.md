@@ -10,6 +10,9 @@ Repositório com os jogos desenvolvidos pelas equipes do PAC 4.
    - **Navegador** (Efeito Dominó e Wizards of the Mathemagics): o arquivo `.html` (`index.html` ou `Jogo.html`), com Chrome ou Edge.
 4. Se o antivírus bloquear o `.exe`, libere o arquivo ou a pasta e tente de novo.
 
+## Dúvidas
+Problema para abrir um jogo ou alguma dúvida? Poste na aba de discussões: [https://github.com/luanick/jogos-pac-4/discussions](https://github.com/luanick/jogos-pac-4/discussions)
+
 ## Jogos
 | Jogo | Pasta | Plataforma |
 |---|---|---|

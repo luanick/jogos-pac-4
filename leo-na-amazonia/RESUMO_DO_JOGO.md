@@ -43,3 +43,8 @@ Jogou? Conta pra gente o que achou:
 👉 **[Responder a pesquisa — para os alunos](https://forms.gle/N6v8ZDnNT7K14QDB9)**
 
 👉 **[Responder a pesquisa — para o(a) professor(a)](https://forms.gle/dJMBA28puCZBnLUV9)**
+
+## Dúvidas
+O jogo não abriu ou ficou com alguma dúvida? Escreva na aba de discussões:
+
+👉 **[Tirar uma dúvida](https://github.com/luanick/jogos-pac-4/discussions)**

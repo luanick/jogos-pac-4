@@ -37,3 +37,8 @@ O mago Pitágoras precisa recuperar a fórmula mágica perdida da Torre de Herá
 Jogou? Conta pra gente o que achou:
 
 👉 **[Responder a pesquisa](https://docs.google.com/forms/d/e/1FAIpQLSc_nA8Nhu0ey2wFNfpXLdUNgDtEgIF7k1avDZKXf_CQPP9DDw/viewform?usp=publish-editor)**
+
+## Dúvidas
+O jogo não abriu ou ficou com alguma dúvida? Escreva na aba de discussões:
+
+👉 **[Tirar uma dúvida](https://github.com/luanick/jogos-pac-4/discussions)**

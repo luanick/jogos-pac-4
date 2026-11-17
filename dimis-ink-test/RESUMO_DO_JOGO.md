@@ -44,3 +44,8 @@ Luan Nick, Vinícius Gilgen e Nicolas Nass
 Jogou? Conta pra gente o que achou:
 
 👉 **[Responder a pesquisa](https://forms.gle/xi1s1DZHfbsgFMeAA)**
+
+## Dúvidas
+O jogo não abriu ou ficou com alguma dúvida? Escreva na aba de discussões:
+
+👉 **[Tirar uma dúvida](https://github.com/luanick/jogos-pac-4/discussions)**
