@@ -2,6 +2,14 @@
 
 Repositório com os jogos desenvolvidos pelas equipes do PAC 4.
 
+## Como rodar os jogos (leia primeiro)
+1. Baixe o `.zip` do jogo (na página do arquivo, clique em **Download raw**).
+2. **Extraia tudo**: clique com o botão direito no zip → **Extrair tudo**. Não abra o jogo de dentro do zip, ele precisa dos outros arquivos na mesma pasta.
+3. Abra o jogo dentro da pasta extraída:
+   - **Windows**: o arquivo `.exe` (o aviso azul do Windows é normal: **Mais informações** → **Executar assim mesmo**).
+   - **Navegador** (Efeito Dominó e Wizards of the Mathemagics): o arquivo `.html` (`index.html` ou `Jogo.html`), com Chrome ou Edge.
+4. Se o antivírus bloquear o `.exe`, libere o arquivo ou a pasta e tente de novo.
+
 ## Jogos
 | Jogo | Pasta | Plataforma |
 |---|---|---|
