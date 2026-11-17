@@ -26,6 +26,7 @@ João Carlos, Mateus, Ricardo e Victor
 ## Como jogar
 1. Baixe o [`Leo-na-Amazonia.zip`](executavel/Leo-na-Amazonia.zip) (na página do arquivo, clique em **Download raw** ou no ícone de download).
 2. Extraia o zip e abra `Léo na Amazônia.exe`. O arquivo `.pck` precisa ficar na mesma pasta.
+3. **Computador antigo ou que não abriu?** Use a versão de 32 bits: [`Leo-na-Amazonia-32bits.zip`](executavel/Leo-na-Amazonia-32bits.zip). É um `.exe` único e usa o modo de compatibilidade gráfica (OpenGL).
 
 ## ⚠️ O Windows pode bloquear o jogo
 Se aparecer a tela azul **"O Windows protegeu o computador"** (SmartScreen), é normal: o jogo é um projeto de estudantes e não tem assinatura digital paga. Clique em **Mais informações** e depois em **Executar assim mesmo**.
